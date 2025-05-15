@@ -1,0 +1,26 @@
+.header {
+  background: linear-gradient(135deg, #7f00ff, #00c6ff); 
+  padding: 20px 0;
+  border-bottom-left-radius: 20px;
+  border-bottom-right-radius: 20px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
+  text-align: center;
+}
+
+.header h1 {
+  color: #ffffff;
+  font-size: 34px;
+  font-weight: bold;
+  letter-spacing: 1.2px;
+  margin: 0;
+  text-shadow: 0 3px 6px rgba(0, 0, 0, 0.3);
+}
+
+.footer {
+  text-align: center;
+  background: linear-gradient(135deg, #7f00ff, #00c6ff);
+  padding: 20px;
+  margin-top: 80px;
+  border-top-left-radius: 20px;
+  border-top-right-radius: 20px;
+}

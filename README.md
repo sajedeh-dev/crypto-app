@@ -1,12 +1,32 @@
-# React + Vite
+# 💰 Crypto Dashboard
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern cryptocurrency price tracking dashboard built with **React**, displaying real-time data, interactive charts, search functionality, and pagination. It uses the [CoinGecko API](https://www.coingecko.com/en/api) to fetch cryptocurrency market data.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
 
-## Expanding the ESLint configuration
+- 🔍 **Live Search** by coin name/symbol
+- 📊 **Interactive Chart** for:
+  - Price
+  - Market Cap
+  - Total Volume
+- 📄 **Paginated Table** of top cryptocurrencies
+- 🔄 **Currency Toggle** (USD, EUR, etc.)
+- ⚡ **Loading Indicators**
+- 🎨 **Responsive & Stylish UI** (Dark Mode)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 📦 Tech Stack
+
+| Tech | Purpose |
+|------|---------|
+| `React` | Core UI Framework |
+| `Recharts` | Charting library |
+| `CoinGecko API` | Live crypto data |
+| `ClipLoader` | Loading indicator |
+
+
+
+

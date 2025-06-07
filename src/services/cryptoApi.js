@@ -1,4 +1,4 @@
-const BASE_URL = "http://api.coingecko.com/api/v3";
+const BASE_URL = "https://api.coingecko.com/api/v3";
 const API_KEY = "CG-QaPcUpcVdcDBqh8mbBt8nFxy";
 
 const getCoinsList = (page, currency) => 

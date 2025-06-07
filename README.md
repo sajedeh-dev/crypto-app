@@ -3,6 +3,10 @@
 A modern cryptocurrency price tracking dashboard built with **React**, displaying real-time data, interactive charts, search functionality, and pagination. It uses the [CoinGecko API](https://www.coingecko.com/en/api) to fetch cryptocurrency market data.
 
 ---
+## Live Demo
+
+Check out the live version of this project deployed on Vercel:  
+[https://crypto-app-delta-black.vercel.app/](https://crypto-app-delta-black.vercel.app/)
 
 ## 🚀 Features
 
